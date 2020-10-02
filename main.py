@@ -4,7 +4,7 @@ from random import choice
 import string
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'iketanigithub'
+app.config['SECRET_KEY'] = 'YOUR_KEY_HERE'
 
 def passgeneratorfunction(passLength):
     value = string.ascii_letters + string.digits + string.punctuation
