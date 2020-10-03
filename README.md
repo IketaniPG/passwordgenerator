@@ -1,7 +1,7 @@
 # Web Password Generator 🌎
 Generate a password with your choosed length.
 
-## Installng Requirements 💻
+## Installing Requirements 💻
 
 You need:
 * ``Flask`` —> [Click here](https://pypi.org/project/Flask/)
